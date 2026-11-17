@@ -22,7 +22,7 @@
           "name": "Iride Expert Engineer (Coding)",
           "limit": {
             "context": 65536,
-            "output": 8192
+            "output": 16384
           },
           "body": {
             "temperature": 0,
